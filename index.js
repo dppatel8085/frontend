@@ -1,3 +1,1 @@
-console.log("Hello, World!  cvhsmnmn na ");
-
-console.log("my test tasj")
+console.log("this is the data")
