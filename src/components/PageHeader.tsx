@@ -13,8 +13,6 @@ export function PageHeader({
   description,
   action,
 }: PageHeaderProps) {
-
-  mb-6 flex-wrap 
   return (
     <header className="mb-6 flex flex-wrap items-end justify-between gap-4 border-b border-slate-200 pb-5">
       <div className="min-w-0">

@@ -15,14 +15,6 @@
       "unit": "A-204",
       "visitDate": "2026-09-15",
       "status": "Pending"
-    },
-    {
-      "id": "v-1002",
-      "name": "Rohit Nair",
-      "phone": "98111 22334",
-      "unit": "B-118",
-      "visitDate": "2026-09-16",
-      "status": "Approved"
     }
   ]
 }
