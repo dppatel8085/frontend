@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "u-1",
+      "email": "admin@gmail.com",
+      "password": "password123",
+      "name": "Admin"
+    }
+  ],
+  "visitors": [
+    {
+      "id": "v-1001",
+      "name": "Asha Mehta",
+      "phone": "98765 43210",
+      "unit": "A-204",
+      "visitDate": "2026-09-15",
+      "status": "Pending"
+    },
+    {
+      "id": "v-1002",
+      "name": "Rohit Nair",
+      "phone": "98111 22334",
+      "unit": "B-118",
+      "visitDate": "2026-09-16",
+      "status": "Approved"
+    }
+  ]
+}
