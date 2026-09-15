@@ -6,3 +6,4 @@ import { mockApiPlugin } from "./mock-api/vite-plugin.js";
 export default defineConfig({
   plugins: [react(), tailwindcss(), mockApiPlugin()],
 });
+ 
